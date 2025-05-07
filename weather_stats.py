@@ -200,5 +200,5 @@ class WeatherStats:
 
 
 weather_stats = WeatherStats()
-weather_data = weather_stats.process_weather()
+weather_data = weather_stats.process_weather_stats()
 
