@@ -1,0 +1,8 @@
+.env
+
+json_files/
+
+__pycache__/
+*.pyc
+*.pyo
+
